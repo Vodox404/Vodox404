@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Don
 
-<!--
-**Vodox404/Vodox404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 19-year-old creative software developer who loves building simple, intuitive, and meaningful digital experiences.
+I enjoy exploring new ideas, learning new tech, and turning concepts into real projects.
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+🛠️ Tools & Technologies
+Languages
+🟦 C#
+☕ Java
+🗄️ SQL
+🌐 HTML & CSS
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Design & Workflow
+🎨 Figma
+🔄 Scrum / Agile
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+About Me
+♟️ I love playing chess
+🐶 I have a dog who keeps me company while I code
+🧠 I enjoy creating tools that are easy to understand and genuinely useful
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
