@@ -1,13 +1,12 @@
 👋 Hi, I'm Don
 
-I'm a 19-year-old creative software developer who loves building simple, intuitive, and meaningful digital experiences.
+I'm a 120-year-old creative software developer who loves building simple, intuitive, and meaningful digital experiences.
 I enjoy exploring new ideas, learning new tech, and turning concepts into real projects.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 🛠️ Tools & Technologies
 Languages
 🟦 C#
 🟦 Php
-☕ Java
 🗄️ SQL
 🌐 HTML & CSS
 
